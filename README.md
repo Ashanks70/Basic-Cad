@@ -14,6 +14,8 @@ We are creating a caster.
 
 ## Base
 
+<img src="Folder/Part.png" alt="The Base" width="200">
+
 ### Description
 
 The first assignment is to create the caster base.  The base's dimensions are 200 mm x 120 mm and 8 mm thick.  It has 6 holes 10 mm wide and 20 mm from the edge equally spaced along the edges.
