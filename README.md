@@ -44,39 +44,39 @@ Onshape is awesome.  I found it really helpful to rename all my sketches.  It is
 ## Mount
 
 ### Description
-
+this was my mount it really just involved a scaled rectangle.
 ### Evidence
-
+[Mount](https://cvilleschools.onshape.com/documents/f9267e1b2cd95aa3acaf2426/w/53190cc2c3784edcf9003bfc/e/44e18eaa2b8d3e0239122604)
 ### Image
 
 ### Reflection
-
+The mount was easy, although I had to redo it once.
 ---
 
 
 ## Fork
 
 ### Description
-
+the fork is just a limited wall plug.
 ### Evidence
-
+[My Fork is Here](https://cvilleschools.onshape.com/documents/f9267e1b2cd95aa3acaf2426/w/53190cc2c3784edcf9003bfc/e/44e18eaa2b8d3e0239122604)
 ### Image
 
 ### Reflection
-
+The fork was rather simple and just required using fillet and chamfer, which round down edges.
 ---
 
 
 ## Tire
 
 ### Description
-
+The tire was simply a revolved trapezoid, which was hard to make.
 ### Evidence
-
+[My Tire](https://cvilleschools.onshape.com/documents/f9267e1b2cd95aa3acaf2426/w/53190cc2c3784edcf9003bfc/e/44e18eaa2b8d3e0239122604)
 ### Image
 
 ### Reflection
-
+This one was slightly more tricky and I had to follow along in the video.
 ---
 
 
