@@ -81,15 +81,16 @@ This one was slightly more tricky and I had to follow along in the video.
 
 
 ## Wheel
-
+![Wheel](Folder/Wheel.png)
 ### Description
-
+I made the inside part of a wheel which I struggled with.
 ### Evidence
 
+[My Wheel](https://cvilleschools.onshape.com/documents/f9267e1b2cd95aa3acaf2426/w/53190cc2c3784edcf9003bfc/e/44e18eaa2b8d3e0239122604)
 ### Image
-
+![Wheel](Folder/Wheel.png)
 ### Reflection
-
+This one was really hard. I started off on the wrong plane but doing it next to the tire helped.
 ---
 
 
